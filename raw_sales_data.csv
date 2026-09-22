@@ -1,0 +1,32 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,City
+1001,1/5/2026,Laptop,Electronics,2,55000,Bhopal
+1002,1/7/2026,Mouse,Electronics,5,700,Indore
+1003,1/10/2026,Office Chair,Furniture,2,4500,Raipur
+1004,1/12/2026,Keyboard,Electronics,3,1200,Bhopal
+1005,1/15/2026,Notebook,Stationery,10,80,Indore
+1006,1/18/2026,Desk,Furniture,1,8000,Raipur
+1007,1/21/2026,Monitor,Electronics,2,15000,Bhopal
+1008,1/25/2026,Pen,Stationery,20,20,Indore
+1009,2/2/2026,Laptop,Electronics,1,55000,Raipur
+1010,2/5/2026,Mouse,Electronics,,700,Bhopal
+1011,2/8/2026,Office Chair,Furniture,3,4500,
+1012,2/11/2026,Keyboard,Electronics,2,1200,Indore
+1013,2/14/2026,Notebook,Stationery,15,80,Raipur
+1014,2/18/2026,Desk,Furniture,2,8000,Bhopal
+1015,2/20/2026,Monitor,Electronics,1,15000,Indore
+1016,2/24/2026,Pen,Stationery,30,20,Raipur
+1017,3/1/2026,Laptop,Electronics,2,55000,Bhopal
+1018,3/4/2026,Mouse,Electronics,4,700,Indore
+1019,3/7/2026,Office Chair,Furniture,2,4500,Raipur
+1020,3/10/2026,Keyboard,Electronics,3,1200,Bhopal
+1021,3/12/2026,Notebook,Stationery,12,80,Indore
+1022,3/15/2026,Desk,Furniture,1,8000,Raipur
+1023,3/18/2026,Monitor,Electronics,2,15000,Bhopal
+1024,3/20/2026,Pen,Stationery,25,20,Indore
+1024,3/20/2026,Pen,Stationery,25,20,Indore
+1025,3/22/2026,Laptop,Electronics,1,55000,Raipur
+1026,3/25/2026,Mouse,Electronics,3,-700,Bhopal
+1027,3/27/2026,Keyboard,electronics,2,1200,Indore
+1028,3/29/2026,Notebook,Stationery,8,80,Raipur
+1029,3/30/2026,Desk,Furniture,1,8000,Bhopal
+1030,4/2/2026,Monitor,Electronics,,15000,Indore
