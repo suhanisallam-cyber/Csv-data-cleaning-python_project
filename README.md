@@ -1,4 +1,4 @@
-# Sales Data Cleaning using Python
+# CSV Data Cleaning using Python
 
 ##  Project Overview
 This project focuses on cleaning and preprocessing a raw sales dataset using Python and Pandas.
