@@ -63,9 +63,6 @@ print(data["Category"].unique())
 # Standardize category names
 data["Category"] = data["Category"].str.title()
 
-# Standardize category names
-data["Category"] = data["Category"].str.title()
-
 # Check category values after standardization
 print(data["Category"].unique())
 
